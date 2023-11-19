@@ -1,7 +1,7 @@
 # CSF_CAP2_pygame
-#Tetris Game Unit Tests
+# Tetris Game Unit Tests
 
-##Game Overview
+## Game Overview
 
 This document provides an overview of the test cases developed for the Tetris game in the Tetris.py module. The test cases are implemented using the Python unittest framework. Each test case aims to validate specific functionalities of the Tetris game, ensuring correctness and robustness.
 
